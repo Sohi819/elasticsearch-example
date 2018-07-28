@@ -1,0 +1,1 @@
+ab -n 100 -c 50 -p ./data/update.data -T application/json http://localhost:8080/knowledge/update

@@ -1,0 +1,1 @@
+ab -n 100 -c 50 -p ./data/delete.data -T application/json http://localhost:8080/knowledge/delete
